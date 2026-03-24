@@ -1,0 +1,108 @@
+<!--
+Regular dodecahedron with edge length 113.6mm, has:
+ - Diameter 318.366 mm
+ - Circumference (of circumscribing sphere) 1,000.18 mm
+ - Circumference (of equator drawn on dodecahedron) 892.2 mm
+The Earth has:
+ - Polar diameter 12,714 km
+ - Equatorial diameter 12,756 km
+ - Average diameter 12,742 km  (± 20 km) 
+ - Circumference (metric idealised sphere) 40,000 km
+ - Circumference (Paris meridian great circle) 40,008 km
+ - Circumference (of equator, at sea level) 40,074 km
+ - Arc length of idealised sphere between two dodecahedron vertices 4,645.6 km
+This map has scaling of 1 to:
+ - 39,935,148 for polar diameter
+ - 40,067,093 for equatorial diameter
+ - 40,023,000 ±62,900 for Earth circumferences to circumference (of circumscribing sphere)
+ - 40,894,366 for 40,000 km great circle arc length to dodecahedron edge length
+ - 44,915,940 for equatorial diameter to equator drawn on dodecahedron
+One millimetre is approximately 40 km, except elevation is scaled at 800:1 (above sea level).
+So Everest is 11mm above sea level on the pentagon.
+-->
+<svg viewBox="-355.1-186 987 538" xmlns="http://www.w3.org/2000/svg">
+<g id="Date Line connectors" style="fill:none;stroke:#c00;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:1;stroke-linecap:round;stroke-dasharray:1.25 2.5">
+<path d="m192.6 114.4l0.183-0.47a10.9 16.5 0 0 0 1.917-5.43v-0.5" style="stroke-dasharray:0.875 2.25 0.625 2.25"/>
+<path d="m194.7-33.4a255.65 117.40 0 0 0-85.2-87.5"/>
+</g>
+<g id="18x Polygons" style="fill:#69f;stroke:#c00;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:1;stroke-linecap:round">
+<path id="01.0 Australia pentagon" d="m35.1 0h113.6l35.1 108-91.9 66.8-91.9-66.8z"/>
+<path id="02.1 New Zealand pentagon (Eastern hemisphere)" d="m91.9 174.8l91.9-66.8 8.8 6.4-65.6 168.4z"/>
+<path id="02.2 South Pacific (New Zealand pentagon West)" d="m192.6 114.4 83.1 60.4-35.1 108h-113.6z"/>
+<path id="03.0 Kerguelen pentagon" d="m-21.7 174.8h113.6l35.1 108-91.9 66.8-91.9-66.8z"/>
+<path id="04.1 Antarctic Peninsula" d="m166.26 336.85l-39.25-54.05h113.6z"/>
+<path id="04.2 Halley" d="m127 282.8v66.8h-91.9z"/>
+<path id="05.1 Pacific Fiji" d="m148.7 0l46-33.4v141.4h-10.9z"/>
+<path id="05.2 Pacific Hawaii" d="m240.6 -66.8l91.9 66.8-35.1 108h-102.7v-141.4z"/>
+<path id="06.0 India pentagon" d="m35.1 0l-35.1 108h-113.6l-35.1 -108 91.9 -66.8z"/>
+<path id="07.1 Japan pentagon (Eastern hemisphere)" d="m-56.8-66.8l35.1-108 131.2 53.9 17.5 54.1-91.9 66.8z"/>
+<path id="07.2 Bering Strait (Japan pentagon West)" d="m-21.7-174.8h113.6l17.6 53.9z"/>
+<path id="08.0 Europe pentagon" d="m-56.8-66.8l-91.9 66.8-91.9-66.8 35.1-108h113.6z"/>
+<path id="09.0 South Africa pentagon" d="m-148.7 0l-35.1 108h-113.6l-35.1-108 91.9-66.8z"/>
+<path id="10.1 West Africa triangle" d="m-205.5-174.8l-35.1 108h-113.6z"/>
+<path id="11.0 Ecuador pentagon" d="m332.5 0h113.6l35.1 108-91.9 66.8-91.9-66.8z"/>
+<path id="10.2 Venezuela trapezium" d="m594.8 108h-113.6l-35.1-108 91.6-66.8z"/>
+<path id="04.3 Argentina trapezium" d="m446.1 216l35.1-108h113.6l35.1 108z"/>
+<path id="12.0 Canada pentagon" d="m446.1 0h-113.6l-35.1-108 91.9-66.8 91.9 66.8z"/>
+</g>
+<g id="Polygon Labels" style="fill:#fc3;text-anchor:middle;dominant-baseline:middle;font-family:Calibri,sans-serif">
+<text x="91.9" y="75.4" style="font-size:16">Australia</text>
+<text x="91.9" y="91.4" style="font-size:16">pentagon</text>
+<text x="129.8" y="175.35" style="font-size:11">New Zealand</text>
+<text x="129.8" y="186.35" style="font-size:11">pentagon</text>
+<text x="128.8" y="196.35" style="font-size:6">(Eastern hemisphere)</text>
+<text x="215.375" y="175.35" style="font-size:11">South Pacific</text>
+<text x="215.375" y="185.35" style="font-size:6">(New Zealand </text>
+<text x="215.375" y="193.35" style="font-size:6"> pentagon West)</text>
+<text x="39.1" y="252.2" style="font-size:16">Kerguelen</text>
+<text x="39.1" y="268.2" style="font-size:16">pentagon</text>
+<text x="172.5" y="294.5" style="font-size:11">Antarctic</text>
+<text x="172.5" y="305.5" style="font-size:11">Peninsula</text>
+<text x="106.5" y="337.5" style="font-size:11">Halley</text>
+<text x="172.5" y="3.5" style="font-size:11">Pacific</text>
+<text x="172.5" y="14.5" style="font-size:11">Fiji</text>
+<text x="240.5" y="3.5" style="font-size:11">Pacific</text>
+<text x="240.5" y="14.5" style="font-size:11">Hawaii</text>
+<text x="-56.8" y="16.6" style="font-size:16">India</text>
+<text x="-56.8" y="32.6" style="font-size:16">pentagon</text>
+<text x="62" y="-165.5" style="font-size:11">Bering Strait</text>
+<text x="66" y="-155.5" style="font-size:6">(Japan pentagon West)</text>
+<text x="-3.5" y="-155.5" style="font-size:11">Japan</text>
+<text x="-3.5" y="-144.5" style="font-size:11">pentagon</text>
+<text x="-3.5" y="-134.5" style="font-size:6">(Eastern hemisphere)</text>
+<text x="-148.7" y="-98.8" style="font-size:16">Europe</text>
+<text x="-148.7" y="-82.8" style="font-size:16">pentagon</text>
+<text x="-240.6" y="54" style="font-size:16">South Africa</text>
+<text x="-240.6" y="70" style="font-size:16">pentagon</text>
+<text x="-261" y="-102.8" style="font-size:11">West</text>
+<text x="-261" y="-90.8" style="font-size:11">Africa</text>
+<text x="-261" y="-78.8" style="font-size:11">triangle</text>
+<text x="389.3" y="75.4" style="font-size:16">Ecuador</text>
+<text x="389.3" y="91.4" style="font-size:16">pentagon</text>
+<text x="534" y="75.4" style="font-size:16">Venezuela</text>
+<text x="534" y="91.4" style="font-size:16">trapezium</text>
+<text x="538" y="154.4" style="font-size:16">Argentina</text>
+<text x="538" y="170.4" style="font-size:16">trapezium</text>
+<text x="389.3" y="-82.8" style="font-size:16">Canada</text>
+<text x="389.3" y="-66.8" style="font-size:16">pentagon</text>
+</g>
+<g id="Equator" style="fill:none;stroke:#fc3;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:1;stroke-linecap:round;stroke-dasharray:1 3.4765625">
+<path id="Africa (Morocco to Mali)" d="m-308.25-100.2l10.85 33.4" style="stroke-dasharray:1 3.25"/>
+<path id="Connector1" d="m-297.4-66.8l10.85 33.4" style="stroke-dasharray:1 3.25"/>
+<path id="Africa (Mali to Sudan)" d="m-286.55 -33.4l120.3 87.4"/>
+<path id="Connector2" d="m-166.25 54h35.1" style="stroke-dasharray:1 3.25"/>
+<path id="India" d="m-131.15 54h148.7"/>
+<path id="Australia" d="m17.55 54h148.7"/>
+<path id="Fiji" d="m166.25 54h28.45" style="stroke-dasharray:1 3.575"/>
+<path id="Hawaii" d="m194.7 54h120.25" style="stroke-dasharray:1 3.414"/>
+<path id="Ecuador" d="m315.15 54h148.7"/>
+<path id="Venezuela" d="m463.85 54h113.6" style="stroke-dasharray:1 3.49"/>
+</g>
+<g id="Greenwich Meridian" style="fill:none;stroke:#fc3;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:1;stroke-linecap:round;stroke-dasharray:1 3.6">
+<path id="Date Line Prime Meridian North Pole connector" d="m-21.7-174.8q-46.73-19.2-70.2 0"/>
+<path id="Europe" d="m-91.9-174.8l-139.9 114.4"/>
+<path id="Africa" d=""/>
+<path id="Argentina (Bouvet / Bouvetøya)" d=""/>
+<path id="Antarctic" d="m126 284.8l-63.3 64.8"/>
+</g>
+</svg>
