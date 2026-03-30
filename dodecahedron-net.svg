@@ -17,8 +17,8 @@ This map has scaling of 1 to:
  - 40,023,000 ±62,900 for Earth circumferences to circumference (of circumscribing sphere)
  - 40,894,366 for 40,000 km great circle arc length to dodecahedron edge length
  - 44,915,940 for equatorial diameter to equator drawn on dodecahedron
-One millimetre is approximately 40 km, except elevation is scaled at 800:1 (above sea level).
-So Everest is 11mm above sea level on the pentagon.
+One millimetre is approximately 40 km, except elevation is scaled at 800m (above sea level) is 1mm on model.
+So Everest is 11mm above sea level on the pentagon, & this z-axis 1:800,000 scale is 50x bigger than x & y.
 -->
 <svg viewBox="-355.1-186 987 538" xmlns="http://www.w3.org/2000/svg">
 <g id="Date Line connectors" style="fill:none;stroke:#c00;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:1;stroke-linecap:round;stroke-dasharray:1.25 2.5">
